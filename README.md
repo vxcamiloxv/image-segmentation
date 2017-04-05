@@ -1,7 +1,7 @@
 Image Segmentation
 ===================
 
-Simple test with flask fro process of partitioning a digital image into multiple segments
+Simple test with [Flask](http://flask.pocoo.org/) for process of partitioning a digital image into multiple segments
 
 ### Requirements ###
 - python 3.x
