@@ -11,7 +11,7 @@ Simple test with flask fro process of partitioning a digital image into multiple
 ### Installation ###
 ```shell
   virtualenv env
-  sourec env/bin/activate
+  source env/bin/activate
   pip install -r requirements.txt
 ```
 
